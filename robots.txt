@@ -1,0 +1,4 @@
+User-agent: Googlebot
+Disallow: /admin/
+
+Sitemap: https://sl0tgacorr.github.io/SENANG4D/sitemap.xml
